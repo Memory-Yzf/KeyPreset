@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.yzf.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "KeybindsScreenMixin",
+    "KeybindsScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
