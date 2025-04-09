@@ -1,0 +1,15 @@
+{
+  "key.keyboard.unknown" : "",
+  "keypreset.entry": "键位预设",
+  "keypreset.title": "键位预设",
+  "keypreset.save": "保存",
+  "keypreset.load": "加载",
+  "keypreset.done": "完成",
+  "keypreset.delete": "删除",
+  "keypreset.screen.enter.text": "请输入预设名",
+  "keypreset.screen.blank.text": "预设名不能为空",
+  "keypreset.screen.valid.text": "有效的预设名",
+  "keypreset.screen.exist.text": "已存在相同名称的预设文件",
+  "keypreset.screen.forbid.char.text": "非法字符：%s",
+  "keypreset.open.folder.tooltip": "打开预设文件夹"
+}
