@@ -1,0 +1,16 @@
+{
+  "key.keyboard.unknown" : "",
+  "keypreset.title": "Key Preset",
+  "keypreset.save": "Save",
+  "keypreset.refresh": "Refresh",
+  "keypreset.load": "Load",
+  "keypreset.done": "Done",
+  "keypreset.delete": "Delete",
+  "keypreset.open.folder": "Open Folder",
+  "keypreset.screen.enter.text": "Enter preset name",
+  "keypreset.screen.blank.text": "The preset name cannot be blank",
+  "keypreset.screen.valid.text": "Preset name valid",
+  "keypreset.screen.exist.text": "The preset already exists",
+  "keypreset.screen.forbid.char.text": "Illegal char: %s"
+
+}

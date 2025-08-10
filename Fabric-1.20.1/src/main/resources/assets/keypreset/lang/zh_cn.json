@@ -1,0 +1,14 @@
+{
+  "keypreset.save": "保存",
+  "keypreset.delete": "删除",
+  "keypreset.load": "加载",
+  "keypreset.preset": "预设",
+  "keypreset.save_preset": "保存预设",
+  "keypreset.load_preset": "加载预设",
+  "keypreset.enter_preset_name": "请输入预设名",
+  "keypreset.empty_preset_name": "预设名不能为空",
+  "keypreset.char_preset_name": "预设名不能包含以下字符：\\ / : * ? \" < > |",
+  "keypreset.valid_preset_name": "有效的预设名",
+  "keypreset.exist_preset_name": "重名的预设文件",
+  "keypreset.open_folder_tooltip": "打开预设文件夹"
+}
