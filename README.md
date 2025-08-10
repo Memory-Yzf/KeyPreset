@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Memory-Yzf/KeyPreset">
-    <img src="https://github.com/Memory-Yzf/KeyPreset/blob/1.21.1-Neoforge/src/main/resources/assets/logo.png" alt="Logo" width="120" height="120">
+    <img src="https://github.com/Memory-Yzf/KeyPreset/blob/main/LOGO.png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">KeyPreset</h3>
