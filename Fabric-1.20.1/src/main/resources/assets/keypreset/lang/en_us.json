@@ -1,0 +1,14 @@
+{
+  "keypreset.save": "Save",
+  "keypreset.delete": "Delete",
+  "keypreset.load": "Load",
+  "keypreset.preset": "Preset",
+  "keypreset.save_preset": "Save Preset",
+  "keypreset.load_preset": "Load Preset",
+  "keypreset.enter_preset_name": "Enter preset name",
+  "keypreset.empty_preset_name": "The preset name cannot be empty",
+  "keypreset.char_preset_name": "The preset name cannot contain the following characters: \\ / : * ? \" < > |",
+  "keypreset.valid_preset_name": "Preset name valid",
+  "keypreset.exist_preset_name": "The preset file already exists",
+  "keypreset.open_folder_tooltip": "Open preset folder"
+}

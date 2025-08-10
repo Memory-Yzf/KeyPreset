@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "keypreset",
+	"version": "${version}",
+	"name": "KeyPreset",
+	"description": "A simple keypreset mod",
+	"authors": [
+		"Memory_Yzf"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/keypreset",
+		"sources": "https://github.com/Memory-Yzf/KeyPreset",
+		"issues": "https://github.com/Memory-Yzf/KeyPreset/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/keypreset/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.yzf.KeyPreset"
+		]
+	},
+	"mixins": [
+		"keypreset.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
