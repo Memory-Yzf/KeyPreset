@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "${loader_version_range}"
+license = "${mod_license}"
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+updateJSONURL = "https://modrinth.com/mod/keypreset"
+displayURL = "https://modrinth.com/mod/keypreset"
+issueTrackerURL="https://github.com/Memory-Yzf/KeyPreset/issues"
+logoFile="logo.png"
+authors = "${mod_authors}"
+description = '''${mod_description}'''
+
+[modproperties.modmenu]
+badges=["client"]
+sources="https://github.com/Memory-Yzf/KeyPreset"
+links=["mod_menu.modrinth=https://modrinth.com/mod/keypreset", "mod_menu.curseforge=https://www.curseforge.com/minecraft/mc-mods/keypreset"]
+
+[[dependencies."${mod_id}"]]
+modId = "forge"
+mandatory = true
+versionRange = "${forge_version_range}"
+ordering = "NONE"
+
+[[dependencies."${mod_id}"]]
+modId = "minecraft"
+mandatory = true
+versionRange = "${minecraft_version_range}"
+ordering = "NONE"
+side = "CLIENT"

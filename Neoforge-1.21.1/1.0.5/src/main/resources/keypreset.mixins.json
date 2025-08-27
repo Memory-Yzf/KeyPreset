@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.yzf.keypreset.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "KeyBindsScreenAccessor",
+    "KeyBindsScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

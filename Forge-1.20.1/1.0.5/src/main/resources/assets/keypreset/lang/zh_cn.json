@@ -1,0 +1,23 @@
+{
+  "keypreset.title": "键位预设",
+  "keypreset.save": "保存",
+  "keypreset.delete": "删除",
+  "keypreset.load": "加载",
+  "keypreset.refresh": "刷新列表",
+  "keypreset.open_folder": "打开文件夹",
+  "keypreset.preset_bingding": "预设绑定",
+  "keypreset.done": "完成",
+  "keypreset.screen_enter_text": "请输入预设名",
+  "keypreset.screen_blank_text": "预设名不能为空",
+  "keypreset.screen_valid_text": "有效的预设名",
+  "keypreset.screen_exist_text": "已存在相同名称的预设文件",
+  "keypreset.screen_forbid_char_text": "非法字符：%s",
+  "keypreset.ingame_switch_tooltip": "已切换预设至：%s",
+  "key.categories.keypreset": "键位预设",
+  "key.keypreset.apply_preset_1": "应用预设 1",
+  "key.keypreset.apply_preset_2": "应用预设 2",
+  "key.keypreset.apply_preset_3": "应用预设 3",
+  "key.keypreset.apply_preset_4": "应用预设 4",
+  "key.keypreset.apply_preset_5": "应用预设 5",
+  "key.keyboard.unknown" : ""
+}

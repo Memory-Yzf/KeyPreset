@@ -1,0 +1,23 @@
+{
+  "keypreset.title": "KeyPreset",
+  "keypreset.save": "Save",
+  "keypreset.delete": "Delete",
+  "keypreset.load": "Load",
+  "keypreset.refresh": "Refresh List",
+  "keypreset.preset_bingding": "Preset Binding",
+  "keypreset.open_folder": "Open Folder",
+  "keypreset.done": "Done",
+  "keypreset.screen_enter_text": "Enter preset name",
+  "keypreset.screen_blank_text": "The preset name cannot be blank",
+  "keypreset.screen_valid_text": "Preset name valid",
+  "keypreset.screen_exist_text": "The preset already exists",
+  "keypreset.screen_forbid_char_text": "Illegal char: %s",
+  "keypreset.ingame_switch_tooltip": "The preset has been switched: %s",
+  "key.categories.keypreset": "KeyPreset",
+  "key.keypreset.apply_preset_1": "Apply Preset 1",
+  "key.keypreset.apply_preset_2": "Apply Preset 2",
+  "key.keypreset.apply_preset_3": "Apply Preset 3",
+  "key.keypreset.apply_preset_4": "Apply Preset 4",
+  "key.keypreset.apply_preset_5": "Apply Preset 5",
+  "key.keyboard.unknown": ""
+}
