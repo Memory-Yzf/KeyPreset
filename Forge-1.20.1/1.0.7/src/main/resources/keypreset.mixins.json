@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.yzf.keypreset.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "keypreset.refmap.json",
+  "client": [
+    "KeyBindsScreenMixin",
+    "KeyBindsScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
