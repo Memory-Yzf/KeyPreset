@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "keypreset",
+  "version": "${version}",
+  "name": "KeyPreset",
+  "description": "A simple keypreset mod",
+  "authors": [
+    "Memory_Yzf"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/keypreset",
+    "sources": "https://github.com/Memory-Yzf/KeyPreset",
+    "issues": "https://github.com/Memory-Yzf/KeyPreset/issues"
+  },
+  "license": "MIT",
+  "icon": "logo.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.yzf.keypreset.KeyPresetClient"
+    ]
+  },
+  "mixins": [
+    "keypreset.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/keypresett"
+      }
+    }
+  }
+}
