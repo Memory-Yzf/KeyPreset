@@ -11,7 +11,7 @@
 </div>
 
 ---
-![KeyBindsScreen](https://github.com/Memory-Yzf/KeyPreset/blob/main/Assets/KeyBindsScreen.png)
+![KeyBindsScreen](https://github.com/Memory-Yzf/KeyPreset/blob/main/Assets/PresetScreen.png)
 
 ---
-![KeyPresetScreen](https://github.com/Memory-Yzf/KeyPreset/blob/main/Assets/KeyPresetScreen.png)
+![KeyPresetScreen](https://github.com/Memory-Yzf/KeyPreset/blob/main/Assets/BindingScreen.png)
