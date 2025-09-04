@@ -6,7 +6,7 @@
 <h3 align="center">KeyPreset</h3>
 
 <div align="center">
-  A save Minecraft keys Mod
+  A simple key management mod
   <br/>
 </div>
 
